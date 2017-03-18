@@ -1,0 +1,15 @@
+Criar um projeto com uma classe Conta Corrente
+Essa classe deve possuir nome e saldo
+Criar um array de contas correntes
+ler o tamanho desse array do args
+prencher os valores dos objetos com dados do args
+
+imprimir o nome e saldo de todos os Correntistas
+imprimir o maior saldo
+imprimir o menor saldo
+imprimir a media de saldos
+imprimir array na ordem inversa
+
+
+
+
