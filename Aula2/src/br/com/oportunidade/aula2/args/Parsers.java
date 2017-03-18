@@ -3,7 +3,7 @@ package br.com.oportunidade.aula2.args;
 public class Parsers {
 	public static void main(String[] args){
 		double valorInteiro = 5;
-		double valorSecreto = 4.2;
+		double valorSecreto = 4.3;
 		
 		double valorEsquisito = Double.parseDouble("3.6");
 		int valorDaString = Integer.parseInt("4");
